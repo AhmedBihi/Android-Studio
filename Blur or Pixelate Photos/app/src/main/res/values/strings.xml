@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blur || Pixelate</string>
+    <string name="blur">Blur</string>
+    <string name="image_view">Image View</string>
+    <string name="pixelate">Pixelate</string>
+    <string name="accept">Accept</string>
+    <string name="edit_photo">Take a photo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="take_pic">Take a new picture!</string>
+    <string name="save_pic">Save picture!</string>
+</resources>

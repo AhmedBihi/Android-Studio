@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Unit converter </string>
+    <string name="edit_message">0.0</string>
+    <string name="button_convert">Convert</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="units_array">
+        <item>Centimeter</item>
+        <item>Kilometer</item>
+        <item>Liter</item>
+        <item>Kilograms</item>
+        <item>Celsius</item>
+    </string-array>
+    <string-array name="units_array2">
+        <item>Inch</item>
+        <item>Miles</item>
+        <item>Gallon</item>
+        <item>Pounds</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
